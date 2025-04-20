@@ -7,4 +7,4 @@ Jokenpo online onde vc vai jogar contra o bot, voce deve escolher entre pedra, p
 <P>-HTML</P>
 <P>-CSS</P>
 <P>-JAVASCRIPT</P>
-<img src="">
+<img src="./assets/img-projeto.png">
